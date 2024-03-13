@@ -2,12 +2,6 @@
 
 A data science initiative aimed at forecasting the likelihood of a transaction being fraudulent or legitimate.
 
-<div align="center">
-    <img alt="churn" src="https://www.finance-monthly.com/Finance-Monthly/wp-content/uploads/2018/07/Fraud-Epidemic-Costs-%C2%A33.2-Trillion-Globally.jpg" width="100%" height="300">
-</div>
-
-<br>
-
 ## 1.0 Business Problem
 
 The Blocker Fraud Company specializes in detecting fraudulent financial transactions conducted via mobile devices. Its flagship service, "Blocker Fraud," ensures the prevention of fraudulent transactions.
